@@ -1,0 +1,38 @@
+h1{
+text-align:center;
+background-color:purple;
+color:green;
+font-family:helvetica;
+}
+
+body {
+ 	background-color:aqua; 
+/*  	background-image: url(eva.jpg);  */
+}
+p {
+	color:fuchsia;
+}
+hr{
+	color:green;
+}
+.mycolor{
+	color:orange;
+	font-size: xx-large;
+}
+.important{
+	background-color:purple;
+	font-style: helvetica;
+}
+.notes{
+	background-color:blue;
+	font-style:oblique;
+	
+}
+
+a:link{
+	color:blue;
+}
+
+.wood{
+	text-align:center;
+}
