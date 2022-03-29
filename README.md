@@ -5,27 +5,27 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 
 **Features**
 employee can :
-*Login 
-*view employee Homepage
-*logout 
-*submit reimbursement request
-*View pending requests
-*View resolved requests
-*update their information
+* Login
+* view employee Homepage
+* logout
+* submit reimbursement request
+* View pending requests
+* View resolved requests
+* update their information
 Managers can :
-*Login
-*view Manager homepage
-*Logout
-*Approve/deny requests
-*view all requests 
-*View all employees
-*view single requests 
+* Login
+* view Manager homepage
+* Logout
+* Approve/deny requests
+* view all requests 
+* View all employees
+* view single requests 
 
 **Technologies:**
-*java 1.8
-*Maven
-*JDBC
-*PostgreSQL
-*Servlet
-*HTML/CSS/JS
-*Junit
+* java 1.8
+* Maven
+* JDBC
+* PostgreSQL
+* Servlet
+* HTML/CSS/JS
+* Junit
