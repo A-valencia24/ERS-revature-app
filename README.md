@@ -30,3 +30,6 @@ Managers can :
 * Servlet
 * HTML/CSS/JS
 * Junit
+
+**TO DO : **
+* manager functions 
