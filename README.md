@@ -12,6 +12,7 @@ employee can :
 * View pending requests
 * View resolved requests
 * update their information
+
 Managers can :
 * Login
 * view Manager homepage
