@@ -31,5 +31,5 @@ Managers can :
 * HTML/CSS/JS
 * Junit
 
-**TO DO : **
+**TO DO**
 * manager functions 
